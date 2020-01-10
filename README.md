@@ -22,5 +22,3 @@ The following files and additions make the framework work.  If using this projec
 * [Platform.sh post](https://platform.sh/blog/2019/java-hello-world-at-platform.sh/)
 * [Apache Tomcat](http://tomcat.apache.org/)
 * [Java at Platform.sh](https://docs.platform.sh/languages/java.html)
-* [PLATFORM_PROJECT_ENTROPY](https://docs.platform.sh/development/variables.html#platformsh-provided-variables)
-* [Codehaus Cargo](https://codehaus-cargo.github.io/cargo/Home.html)
